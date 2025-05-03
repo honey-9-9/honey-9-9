@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there, I am Madhu
+
+- Passionate Software Engineer (4+ years)
+- C, C++, Rust enthusiast
+- Currently working in Meritech, India
+- Open to international opportunities
+
+> “Building tools that matter. Learning every day.”
+
 
 <!--
 **work-24/work-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
